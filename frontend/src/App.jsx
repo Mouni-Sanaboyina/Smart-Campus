@@ -11,7 +11,7 @@ import StudentDashboard   from "./pages/student/StudentDashboard"
 import StudentAttendance  from "./pages/student/StudentAttendance"
 import StudentCurriculum  from "./pages/student/Studentcurriculum"
 import Recommendations    from "./pages/student/Recommendations"
-import StudentSkills      from "./pages/student/StudentSkills"
+import StudentSkills from "./pages/student/Studentskills"
 
 function ProtectedRoute({ children, role }) {
   const { user } = useAuth()
