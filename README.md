@@ -417,11 +417,9 @@ B.Tech – Computer Science (AI & Data Science)
 GitHub: https://github.com/Mouni-Sanaboyina
  
 Project: https://smart-campus-kqqa.vercel.app
+
+---
  
 If you found this project useful, consider giving the repository a ⭐ on GitHub.
  
----
- 
-## About
- 
-Smart Campus is an AI-powered attendance automation platform built with React, FastAPI, SQLAlchemy, and dlib face_recognition. It enforces a mandatory three-layer verification — QR scan, GPS proximity, and facial biometrics — to eliminate proxy attendance in educational institutions.
+
